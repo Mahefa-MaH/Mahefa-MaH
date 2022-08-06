@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true)
 
