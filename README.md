@@ -6,13 +6,11 @@
     <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"
     </td>
   </tr>
 </table>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
 **Mahefa-MaH/Mahefa-MaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
