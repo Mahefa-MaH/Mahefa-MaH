@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<table>
+  <tr>
+    <td>a</td>
+    <td>b</td>
+  </tr>
+</table>
 ![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only)
