@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-<table>
+<table style="text-align:center;">
   <tr>
-    <td>a</td>
-    <td>b</td>
+    <td>![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only)</td>
+    <td>![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only)</td>
+  </tr>
+  <tr>
+    <td>
+      ![Github stats](https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true)
+    </td>
   </tr>
 </table>
-![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true)
 
