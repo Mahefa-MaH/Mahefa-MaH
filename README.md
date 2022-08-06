@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true)
 
