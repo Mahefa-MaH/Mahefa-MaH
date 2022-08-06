@@ -2,7 +2,7 @@
 
 <table style="text-align:center;">
   <tr>
-    <td><img>![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only)</img></td>
+    <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
     <td>![](https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only)</td>
   </tr>
   <tr>
