@@ -2,7 +2,7 @@
 
 <table style="text-align:center;">
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&show_icons=true&bg_color=000000,111111,222222,111111,000000&theme=github_dark&card_width=700&size_weight=0.5&count_weight=0.5&langs_count=20"/></td>
   </tr>
   <tr>
