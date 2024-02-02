@@ -13,8 +13,13 @@
     </td>
   </tr>
 </table>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
+</picture>
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 **Mahefa-MaH/Mahefa-MaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
