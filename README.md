@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Mahefa-MaH&theme=neon)](https://git.io/streak-stats"/>
+      <img src="https://streak-stats.demolab.com/?user=Mahefa-MaH&theme=python-dark)](https://git.io/streak-stats"/>
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=radical"/>
     </td>
