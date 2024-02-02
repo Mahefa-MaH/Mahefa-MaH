@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 <table style="text-align:center;">
-  <tr><td align="center" colspan="2">
-    <picture>
-      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
-    </picture>
-  </td></tr>
   <tr>
     <picture>
   <source
