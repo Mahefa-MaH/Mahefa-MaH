@@ -10,12 +10,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=radical"/>
     </td>
-  </tr>
-</table>
-<picture>
+    <td align="center" colspan="2">
+      <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
 </picture>
+    </td>
+  </tr>
+</table>
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
