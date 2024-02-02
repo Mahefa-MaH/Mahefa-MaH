@@ -11,7 +11,7 @@
   <tr>
     <picture>
   <source
-    srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5&show_icons=true)(https://github.com/anuraghazra/github-readme-stats_"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -20,7 +20,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5)(https://github.com/anuraghazra/github-readme-stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH)(https://github.com/anuraghazra/github-readme-stats"/></td>
   </tr>
   <tr>
