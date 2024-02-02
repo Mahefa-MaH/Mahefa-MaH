@@ -1,4 +1,4 @@
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <table style="text-align:center;">
