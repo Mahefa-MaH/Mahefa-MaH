@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH)]
 ### Hi there 👋
 
 <table style="text-align:center;">
@@ -15,13 +14,13 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH)(https://github.com/anuraghazra/github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH)(https://github.com/anuraghazra/github-readme-stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
