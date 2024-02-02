@@ -11,7 +11,7 @@
     <td align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=10&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true"
         media="(prefers-color-scheme: dark)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true" />
