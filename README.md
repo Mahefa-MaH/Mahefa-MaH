@@ -8,6 +8,17 @@
     </picture>
   </td></tr>
   <tr>
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=8&show_icons=true)](https://github.com/Mahefa-MaH/github-readme-stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH&langs_count=8)](https://github.com/Mahefa-MaH/github-readme-stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=8)](https://github.com/Mahefa-MaH/github-readme-stats"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH&langs_count=8)](https://github.com/Mahefa-MaH/github-readme-stats"/></td>
   </tr>
