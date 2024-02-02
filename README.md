@@ -16,7 +16,7 @@
 <table style="text-align:center;">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=transparence&show_icons=true&count_private=true"/></td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=dark&show_icons=true&count_private=true"/></td>
     <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=neon"/>
     </td>
