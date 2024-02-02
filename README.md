@@ -2,6 +2,12 @@
 
 <table style="text-align:center;">
   <tr>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
+      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
+    </picture>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
     <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
   </tr>
@@ -9,12 +15,6 @@
     <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=radical"/>
-    </td>
-    <td align="center" colspan="2">
-      <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
-</picture>
     </td>
   </tr>
 </table>
