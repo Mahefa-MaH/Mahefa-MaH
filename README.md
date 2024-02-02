@@ -1,3 +1,4 @@
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH)
 ### Hi there 👋
 
 <table style="text-align:center;">
