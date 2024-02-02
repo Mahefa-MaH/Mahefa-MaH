@@ -20,7 +20,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="1">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=radical"/>
     </td>
@@ -28,7 +28,6 @@
 </table>
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 **Mahefa-MaH/Mahefa-MaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
