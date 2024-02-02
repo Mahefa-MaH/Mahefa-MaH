@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=transparent"/>
     </td>
   </tr>
 </table>
-![Mahefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!--
 **Mahefa-MaH/Mahefa-MaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
