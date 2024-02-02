@@ -8,6 +8,7 @@
     </picture>
   </td></tr>
   <tr>
+    <td>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5&show_icons=true"
@@ -15,6 +16,7 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true" />
     </picture>
+    </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH"/></td>
   </tr>
