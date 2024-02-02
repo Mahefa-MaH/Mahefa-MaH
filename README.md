@@ -18,7 +18,7 @@
     <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/></td>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=dark"/>
     </td>
   </tr>
 </table>
