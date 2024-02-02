@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <table style="text-align:center;">
-  <tr>
+  <tr><td>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
       <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
     </picture>
-  </tr>
+  </td></tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
     <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
