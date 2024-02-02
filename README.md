@@ -3,7 +3,6 @@
 <table style="text-align:center;">
   <tr><td align="center" colspan="2">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
       <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
     </picture>
   </td></tr>
