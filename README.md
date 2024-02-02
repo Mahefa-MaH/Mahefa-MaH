@@ -8,7 +8,7 @@
     </picture>
   </td></tr>
   <tr>
-    <td>
+    <td align="center">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=10&show_icons=true"
