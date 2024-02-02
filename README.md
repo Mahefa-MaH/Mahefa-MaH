@@ -18,7 +18,6 @@
     </picture>
     </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
