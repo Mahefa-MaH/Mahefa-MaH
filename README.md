@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 <table style="text-align:center;">
+  <tr><td align="center" colspan="2">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
+      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
+    </picture>
+  </td></tr>
   <tr>
     <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5&show_icons=true"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
