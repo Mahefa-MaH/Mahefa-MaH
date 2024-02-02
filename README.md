@@ -8,8 +8,8 @@
     </picture>
   </td></tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github_stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
-    <td><img src="https://raw.githubusercontent.com/Mahefa-MaH/github_stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=8)](https://github.com/Mahefa-MaH/github-readme-stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahefa-MaH&langs_count=8)](https://github.com/Mahefa-MaH/github-readme-stats"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
