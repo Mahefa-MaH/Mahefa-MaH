@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <table style="text-align:center;">
+  <tr>
+    <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true"/></td>
+  </tr>
   <tr><td align="center" colspan="2">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
       <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=default" />
     </picture>
   </td></tr>
-  <tr>
-    <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true"/></td>
-  </tr>
   <tr>
     <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=highcontrast&show_icons=true&count_private=true"/>
