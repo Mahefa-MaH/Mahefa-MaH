@@ -6,10 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true&bg_color=000000,111111,222222,111111,000000&theme=github_dark&card_width=600"/></td>
   </tr>
   <tr><td align="center" colspan="2">
-    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=dark" />
-      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=python-dark" />
-    </picture>
+      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=neon" />
   </td></tr>
   <tr>
     <td align="center" colspan="2">
