@@ -9,14 +9,7 @@
   </td></tr>
   <tr>
     <td align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true" />
-    </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=donut&langs_count=5"/></td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&langs_count=10&show_icons=true"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2">
