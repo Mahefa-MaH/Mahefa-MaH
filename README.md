@@ -32,8 +32,8 @@
 <!-- STATS -->
 <a href="https://github.com/mattnix4/github-stats">
   <p align='center'>
-    <img src="https://github.com/Mahefa-MaH/github-stats/blob/master/generated/overview.svg"/>
-    <img src="https://github.com/Mahefa-MaH/github-stats/blob/master/generated/languages.svg"/>
+    <img src="https://github.com/Mahefa-MaH/github_stats/blob/master/generated/overview.svg"/>
+    <img src="https://github.com/Mahefa-MaH/github_stats/blob/master/generated/languages.svg"/>
   </p>
 </a>
 
