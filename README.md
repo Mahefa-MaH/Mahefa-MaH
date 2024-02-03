@@ -3,25 +3,29 @@
 <table style="text-align:center;">
   <tr>
     <td align="center" colspan="2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&show_icons=true&theme=transparent&card_width=500&size_weight=0.5&count_weight=0.5&langs_count=20"/></td><!--&bg_color=00000000,00000000,01010100,00000000,00000000 --><!--github-dark -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahefa-MaH&layout=compact&show_icons=true&theme=transparent&card_width=500&size_weight=0.5&count_weight=0.5&langs_count=20"/></td><!--&bg_color=00000000,00000000,01010100,00000000,00000000 --><!--github-dark -->
     <td align="center" colspan="2">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" />
-      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" /> <!--neon -->
-  </td>
+<!--       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" />
+      <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" /> <!--neon --> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=transparent&show_icons=true&count_private=true"/>
+    </td>
   </tr>
 </table>
 
 </br>
 
+<!--
 <table style="text-align:center;">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=transparent&show_icons=true&count_private=true"/></td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=neon&show_icons=true&count_private=true"/>
+    </td>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=transparent"/><!--neon -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&show_icons=true&theme=neon"/>
     </td>
   </tr>
 </table>
+-->
 
 <!-- STREAK STATS -->
 <p align="center"> 
