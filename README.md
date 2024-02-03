@@ -7,7 +7,7 @@
     <td align="center" colspan="2">
 <!--       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" />
       <img src="https://streak-stats.demolab.com?user=Mahefa-MaH&theme=transparent" />  -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=github_dark&bg_color=00000000,00000000,01010100,00000000,00000000&show_icons=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mahefa-MaH&theme=github_dark_dimmed&bg_color=00000000,00000000,01010100,00000000,00000000&show_icons=true&count_private=true"/>
     </td>
   </tr>
 </table>
