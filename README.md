@@ -23,6 +23,43 @@
   </tr>
 </table>
 
+<!-- STREAK STATS -->
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahefa-MaH&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
+
+<!-- STATS -->
+<a href="https://github.com/mattnix4/github-stats">
+  <p align='center'>
+    <img src="https://github.com/Mahefa-MaH/github-stats/blob/master/generated/overview.svg"/>
+    <img src="https://github.com/Mahefa-MaH/github-stats/blob/master/generated/languages.svg"/>
+  </p>
+</a>
+
+  <!-- SKILLS -->
+  
+<p align="center">
+  <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
+<!--   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> -->
+  <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
+ </p>
+
+ <!-- Linux Typing -->
+
+<p align="center" style="background: #1c1c1c;">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=6000">
+</p>
+
+<!-- Visitor -->
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Mahefa-MaH&repo=mattnix4&countColor=%2308E8FF"/>
+</p>
+
 <!--
 **Mahefa-MaH/Mahefa-MaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
