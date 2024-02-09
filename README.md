@@ -34,7 +34,7 @@
 </p>
 
 <!-- STATS -->
-<a href="https://github.com/mattnix4/github-stats">
+<a href="https://github.com/Mahefa-MaH/github_stats">
   <p align='center'>
     <img src="https://github.com/Mahefa-MaH/github_stats/blob/master/generated/overview.svg"/>
     <img src="https://github.com/Mahefa-MaH/github_stats/blob/master/generated/languages.svg"/>
