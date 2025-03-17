@@ -48,13 +48,16 @@
   <img alt='Django' src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'/>
   <img alt='DRF' src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
-<!--   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/> -->
-<!--   <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/> -->
-  <img alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/>
-  <img alt='C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/>
-<!--   <img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/> -->
-  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='NextJS' src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white'/
+  <img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
+  <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
+  <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
+  <img alt='Laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/>
   <img alt='c#' src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white'/>
+  <img alt='ASP.NET Core' src='https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white'/>
+<!--   <img alt='Java' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/> -->
+  <img alt='C' src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
   <img alt='UNITY' src='https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white'/>
   <img alt='GODOT' src='https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine'/>
   <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
