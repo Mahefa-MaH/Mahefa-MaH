@@ -48,7 +48,7 @@
   <img alt='Django' src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'/>
   <img alt='DRF' src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=teal'/>
-  <img alt='NextJS' src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white'/
+  <img alt='NextJS' src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white'/>
   <img alt='Dart' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
   <img alt='Flutter' src='https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white'/>
   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
