@@ -66,7 +66,7 @@
  <!-- Linux Typing -->
 
 <p align="center" style="background: #1c1c1c;">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brain&amp;duration=6000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=%24%20sudo%20apt%20install%20brAIn&amp;duration=6000">
 </p>
 
 <!-- Visitor -->
